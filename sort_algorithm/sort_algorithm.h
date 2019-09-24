@@ -3,18 +3,6 @@
 #include <vector>
 
 
-/*
-* ≤‚ ‘≈≈–ÚÀ„∑®
-*/
-//template <typename T>
-//void test_sort_algorithm(T &arr) {
-//	vector<T(*)(T, size_t)> fun;
-//	fun.push_back(bubble_sort);
-//	//T res = (*fun[0])(arr, arr.size);
-//	//for (auto i : res)
-//	//	cout << i << " ";
-//	//cout << endl;
-//}
 
 /*
 * Ωªªª¡Ω‘™Àÿ
